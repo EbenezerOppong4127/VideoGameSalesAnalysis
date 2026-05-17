@@ -5,7 +5,7 @@
 **Course:** CSE 310 Applied Programming — BYU-Idaho
 
 ## Demo Video
-[Click here to watch the demo]()
+[Click here to watch the demo](https://youtu.be/uZPS6yQ3udE)
 
 ## Overview
 This program analyzes a dataset of over 16,000 video games and their global sales figures using Python and the pandas and matplotlib libraries. It produces three bar charts: the top 10 best-selling games of all time, total global sales by genre, and the top 5 publishers by global sales. All charts are saved as PNG files in the `output/` folder and displayed interactively when the script is run.
